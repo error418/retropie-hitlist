@@ -1,7 +1,7 @@
 # Retropie Hitlist
-A personal Retro-game hitlist
+A personal Retro-game hitlist :video_game:
 
-Feel free to suggest your own :)
+Feel free to suggest your own via Issues :)
 
 ## Nintendo Entertainment System
 
