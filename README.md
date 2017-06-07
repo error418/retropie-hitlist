@@ -1,5 +1,5 @@
-# Retropie Hitlist
-A personal Retro-game hitlist :video_game:
+# Retropie Hitlist :video_game:
+A personal Retro-game hitlist
 
 Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitlist/issues) :)
 
