@@ -1,7 +1,7 @@
 # Retropie Hitlist
 A personal Retro-game hitlist :video_game:
 
-Feel free to suggest your own via Issues :)
+Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitlist/issues) :)
 
 ## Nintendo Entertainment System
 
