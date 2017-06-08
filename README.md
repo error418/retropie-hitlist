@@ -35,43 +35,42 @@ Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitl
 
 ## Super Nintendo Entertainment System
 
-* Aladdin
-* Batman Forever
-* Darius Twin
-* Donkey Kong Country
-* Donkey Kong Country 2 - Diddy's Kong Quest
-* Donkey Kong Country 3 - Dixie Kong's Double Trouble
-* Doom
-* EarthBound
-* Earthworm Jim
-* Earthworm Jim 2
-* F-Zero
-* Harvest Moon
-* International Superstar Soccer
-* Kirby's Dream Land 3
-* The Legend of Zelda - A Link to the Past
-* Lemmings
-* The Lion King
-* The Magical Quest Starring Mickey Mouse
-* Megaman X
-* Megaman X2
-* Mickey Mania - The Timeless Adventures of Mickey Mouse
-* Secret of Mana
-* Space Megaforce
-* Starwing
-* Steven Seagal Is The Final Option
-* Street Fighter Alpha 2
-* Super Bomberman 2
-* Super Bomberman 3
-* Super Mario All-Stars
-* Super Mario Kart
-* Super Mario World
-* Super Mario World 2 - Yoshi's Island
-* Super Metroid
-* Super Probotector - Alien Rebels
-* Super Soccer
-* Super Strike Gunner
-* Teenage Mutant Ninja Turtles IV - Turtles in Time
-* Tetris Attack
-* Uncharted Waters
-* WWF Royal Rumble
+* [Aladdin](http://thegamesdb.net/game/2868/)
+* [Batman Forever](http://thegamesdb.net/game/3146/)
+* [Darius Twin](http://thegamesdb.net/game/1744/)
+* [Donkey Kong Country](http://thegamesdb.net/game/131/)
+* [Donkey Kong Country 2 - Diddy's Kong Quest](http://thegamesdb.net/game/1525/)
+* [Donkey Kong Country 3 - Dixie Kong's Double Trouble](http://thegamesdb.net/game/1526/)
+* [Doom](http://thegamesdb.net/game/2880/)
+* [EarthBound](http://thegamesdb.net/game/1583/)
+* [Earthworm Jim](http://thegamesdb.net/game/997/)
+* [Earthworm Jim 2](http://thegamesdb.net/game/2896/)
+* [F-Zero](http://thegamesdb.net/game/10779/)
+* [Harvest Moon](http://thegamesdb.net/game/1921/)
+* [International Superstar Soccer](http://thegamesdb.net/game/3794/)
+* [Kirby's Dream Land 3](http://thegamesdb.net/game/3208/)
+* [The Legend of Zelda - A Link to the Past](http://thegamesdb.net/game/1318/)
+* [Lemmings](http://thegamesdb.net/game/2832/)
+* [The Lion King](http://thegamesdb.net/game/3171/)
+* [The Magical Quest Starring Mickey Mouse](http://thegamesdb.net/game/1724/)
+* [Megaman X](http://thegamesdb.net/game/143/)
+* [Megaman X2](http://thegamesdb.net/game/1015/)
+* [Mickey Mania - The Timeless Adventures of Mickey Mouse](http://thegamesdb.net/game/3114/)
+* [Secret of Mana](http://thegamesdb.net/game/1253/)
+* [Space Megaforce](http://thegamesdb.net/game/3264/)
+* [Starwing](http://thegamesdb.net/game/33021/)
+* [Steven Seagal Is The Final Option](http://thegamesdb.net/game/26753/)
+* [Street Fighter Alpha 2](http://thegamesdb.net/game/3269/)
+* [Super Bomberman 2](http://thegamesdb.net/game/2534/)
+* [Super Bomberman 3](http://thegamesdb.net/game/2661/)
+* [Super Mario All-Stars](http://thegamesdb.net/game/2093/)
+* [Super Mario Kart](http://thegamesdb.net/game/41/)
+* [Super Mario World](http://thegamesdb.net/game/136/)
+* [Super Mario World 2 - Yoshi's Island](http://thegamesdb.net/game/137/)
+* [Super Metroid](http://thegamesdb.net/game/299/)
+* [Super Probotector - Alien Rebels](http://thegamesdb.net/game/300/)
+* [Super Soccer](http://thegamesdb.net/game/6173/)
+* [Super Strike Gunner](http://thegamesdb.net/game/2456/)
+* [Teenage Mutant Ninja Turtles IV - Turtles in Time](http://thegamesdb.net/game/188/)
+* [Tetris Attack](http://thegamesdb.net/game/3281/)
+* [WWF Royal Rumble](http://thegamesdb.net/game/6364/)
