@@ -7,8 +7,6 @@ Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitl
 
 You got your fresh [RetroPie](https://github.com/RetroPie) installation going. Now it is time to fill your homebrewed console with some retro games. This list is intended to kickstart your personal library.
 
-Have fun.
-
 ## Nintendo Entertainment System
 
 * [Bad Dudes](http://thegamesdb.net/game/332/)
