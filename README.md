@@ -1,7 +1,13 @@
 # Retropie Hitlist :video_game:
 A personal Retro-game hitlist
 
-Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitlist/issues) :)
+Feel free to [suggest your own jewels](https://github.com/error418/retropie-hitlist/issues)
+
+## Intention
+
+You got your fresh [RetroPie](https://github.com/RetroPie) installation going. Now it is time to fill your homebrewed console with some retro games. This list is intended to kickstart your personal library.
+
+Have fun.
 
 ## Nintendo Entertainment System
 
