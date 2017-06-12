@@ -81,7 +81,7 @@ You got your fresh [RetroPie](https://github.com/RetroPie) installation going. N
 
 ## Nintendo Game Boy
 
-* {Kirby's Dream Land 2](http://thegamesdb.net/game/3190/)
+* [Kirby's Dream Land 2](http://thegamesdb.net/game/3190/)
 * [Pokémon Red Edition](http://thegamesdb.net/game/2356/)
 * [Super Mario Land](http://thegamesdb.net/game/1726/)
 * [Super Mario Land 2: 6 Golden Coins](http://thegamesdb.net/game/1727/)
